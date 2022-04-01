@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ivescheung.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ivescheung.github.io/2022/01/29/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2022-04-01</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://ivescheung.github.io/2022/02/28/%E5%86%99%E7%BB%99%E5%B9%B8%E8%BF%90%E7%9A%84%E8%87%AA%E5%B7%B1/</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ivescheung.github.io/tags/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
