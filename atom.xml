@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>吃个诸葛亮的博客</title>
   
-  
+  <subtitle>欢迎你的到来</subtitle>
   <link href="http://ivescheung.github.io/atom.xml" rel="self"/>
   
   <link href="http://ivescheung.github.io/"/>
-  <updated>2022-03-30T16:23:09.997Z</updated>
+  <updated>2022-04-02T01:08:04.674Z</updated>
   <id>http://ivescheung.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试代码块的效果</title>
+    <link href="http://ivescheung.github.io/2022/04/02/%E6%B5%8B%E8%AF%95%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E6%95%88%E6%9E%9C/"/>
+    <id>http://ivescheung.github.io/2022/04/02/%E6%B5%8B%E8%AF%95%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E6%95%88%E6%9E%9C/</id>
+    <published>2022-04-02T01:01:33.000Z</published>
+    <updated>2022-04-02T01:08:04.674Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是一篇测试-为了代码块"><a href="#这是一篇测试-为了代码块" class="headerlink" title="这是一篇测试,为了代码块"></a>这是一篇测试,为了代码块</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function">include&lt;iostream&gt;</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    cout&lt;&lt;<span class="string">&quot;万老师太强了&quot;</span>&lt;&lt;endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="顺便测试一下图床效果"><a href="#顺便测试一下图床效果" class="headerlink" title="顺便测试一下图床效果"></a>顺便测试一下图床效果</h2><p><img src="https://www.helloimg.com/images/2022/04/02/RJiQ41.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这是一篇测试-为了代码块&quot;&gt;&lt;a href=&quot;#这是一篇测试-为了代码块&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试,为了代码块&quot;&gt;&lt;/a&gt;这是一篇测试,为了代码块&lt;/h2&gt;&lt;figure class=&quot;highlight c++&quot;&gt;&lt;ta</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="http://ivescheung.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>写给幸运的自己</title>
