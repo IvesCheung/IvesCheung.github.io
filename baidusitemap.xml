@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://ivescheung.github.io/2022/02/28/%E5%86%99%E7%BB%99%E5%B9%B8%E8%BF%90%E7%9A%84%E8%87%AA%E5%B7%B1/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  <url>
     <loc>http://ivescheung.github.io/2022/05/09/%E6%9B%B4%E6%8D%A2%E7%A1%AC%E7%9B%98%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-05-08</lastmod>
   </url>
@@ -27,9 +31,5 @@
   <url>
     <loc>http://ivescheung.github.io/2022/05/08/hello-world/</loc>
     <lastmod>2022-04-01</lastmod>
-  </url>
-  <url>
-    <loc>http://ivescheung.github.io/2022/02/28/%E5%86%99%E7%BB%99%E5%B9%B8%E8%BF%90%E7%9A%84%E8%87%AA%E5%B7%B1/</loc>
-    <lastmod>2022-03-30</lastmod>
   </url>
 </urlset> 
