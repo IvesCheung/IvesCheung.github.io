@@ -1219,7 +1219,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ace88b;
+  background: #ff16ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2504,31 +2504,68 @@ body {
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
+/*
+
 body {
-  background: url("/images/background.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
+      background: url(/images/background.jpg);//自己喜欢的图片地址
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 50% 50%;
 }
+
+// 主页文章添加阴影效果
 .post {
-  margin-top: 60px;
+   margin-top: 60px;
+   margin-bottom: 60px;
+   padding: 25px;
+   -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
+   -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
+}
+
+   
+// 页面头样式属性
+.header-inner {
+  // 也可以同时定义背景色
+  // background: #ddd 
+  // 透明度
+  // opacity: 0.8;
+}
+// sidebar侧边工具栏样式属性
+.sidebar{
+    // 动画过渡时间
+	transition-duration: 0.4s;
+    // 透明度
+	opacity: 0.8
+}
+// 标题样式
+.posts-expand .post-title-link {
+	// 设置字体颜色
+	color: #222;
+}
+
+// 文章版块样式
+.post-block {
+    //background: var(--content-bg-color);
+	background: #fff
+    border-radius: initial;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
+    padding: 40px;
+    opacity: 0.8;
+}
+
+*/
+.post {
+  margin-top: 0px;
   margin-bottom: 60px;
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
-.sidebar {
-  transition-duration: 0.4s;
-  opacity: 0.8;
-}
-.posts-expand .post-title-link {
-  color: #222;
-}
-.post-block {
-  background: #fff;
-  border-radius: initial;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
-  padding: 40px;
-  opacity: 0.8;
+.posts-expand .post-eof {
+  display: block;
+  width: 0%;
+  height: 0px;
+  background: #ccc;
+  text-align: center;
 }
